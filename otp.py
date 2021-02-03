@@ -1,5 +1,4 @@
 import random as r
-# function for otp generation
 def otpgen():
     otp=""
     for i in range(4):
